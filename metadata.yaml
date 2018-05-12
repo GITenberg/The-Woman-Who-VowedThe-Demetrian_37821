@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39081
     wikipedia: http://www.gutenberg.org/ebooks/author/37359
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37821#The-Woman-Who-VowedThe-Demetrian
 gutenberg_issued: '2011-10-22'
 gutenberg_type: Text
 identifiers:
